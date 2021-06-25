@@ -1,0 +1,54 @@
+#header{
+  text-align:center;
+  /* margin-top:20px; */
+
+}
+
+
+
+
+.first-photo input{
+  height:200px;
+  width:200px;
+   
+    
+  border-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  
+    
+}
+#ImageTwo{
+  margin-left: 40px;
+}
+
+.second-part input{
+  height:100px;
+  width:100px;
+  margin-left:5%;
+  margin-top: 30px;
+  
+}
+.third-part{
+  width:400px;
+  border:1px  aquamarine;
+  border-radius:20px;
+
+
+}
+.description  :hover{
+   color:white;
+   background-color:black;
+   
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.conatainer{
+ background-image:linear-gradient( #6AF2D8,#1E77A5  )  ;
+ 
+}
